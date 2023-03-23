@@ -1,0 +1,14 @@
+.info{
+    display: flex;
+    flex-direction: row;
+    width: 250px;
+    justify-content: space-between;
+    border-bottom-style: dashed;
+
+}
+.para{
+    font-size: 14px;
+}
+.para1{
+    font-weight: bold;
+}
